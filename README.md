@@ -1,8 +1,11 @@
-# lesson30 - Bonus Lab
+# lesson30 - Make up Lab
+
+TODO: Fill out each field below.
+
+- Name: TODO
+- Make up Lab: TODO
 
 ## Overview
 
-For this lab you can pick ANY of your previous labs and resubmit them for a higher grade.  
-All you need to do is copy all the code and build files from your old lab into this repo,
-fix any issues that you had and then re-submit! You can use this bonus lab for something
-that you didn't turn in or something that you just want to improve.
+TODO: Give a brief overview of why you are resubmitting the lab. What problem did you fix? How did you verify that you
+fixed it?
